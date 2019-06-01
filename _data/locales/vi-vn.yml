@@ -1,0 +1,31 @@
+en:
+  locale_name: Tiếng Việt
+  nav:
+    about: Về
+    contribute: Đóng góp
+  index:
+    lead: Phần mềm nguồn mở được tạo ra bởi những người giống như bạn. Tìm hiểu làm thế nào để khởi động và phát triển dự án của bạn.
+    opensourcefriday: Hôm nay là thứ sáu! Đầu tư một vài giờ để đóng góp cho phần mềm bạn sử dụng và yêu thích
+  article:
+    table_of_contents: Mục lục
+    back_to_all_guides: Quay trở về trang hướng dẫn chính
+    related_guides: Hướng dẫn liên quan
+  footer:
+    contribute:
+      heading: Đóng góp
+      description: Bạn muốn đưa ra đề nghị? Đây là nguồn mở. Hãy giúp chúng tôi cải thiện nó.
+      button: Đóng góp
+    subscribe:
+      heading: Giữ liên lạc
+      description: Hãy là người đầu tiên nghe về các tài nguyên và mẹo về nguồn mở mới nhất của GitHub.
+      label: Địa chỉ Email
+      button: Đăng kí
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] với [love] bởi [github] và [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: Yêu thích
+      # Label for the contributors link
+      friends_label: Bạn bè
